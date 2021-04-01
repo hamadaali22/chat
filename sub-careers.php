@@ -21,7 +21,7 @@ include_once("header.php")
             </div>
 
             <div class="col-md-3 col-6">
-                <a href="#" class="button gradient-btn fz-22  float-right">أضف إعلانك</a>
+                <a href="#" class="button gradient-btn fz-22  float-right">أضف إعلانك الان</a>
 
             </div>
 
